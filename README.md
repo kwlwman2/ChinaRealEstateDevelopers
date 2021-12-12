@@ -18,9 +18,9 @@ This project is to explore Chinese real estate developers' financial statement d
 - Summary & Takeaways
 
 ### Code and data
-The `data` folder contains in one file:
 
-* Property_Developers-_Financial_Data.xlsx - containing 116 listed real estate developers, with three-year accounting data spanning from 2017 to 2019
+*  `China_Real_Estate_Firms_Financial_Analysis.ipynb` - Python Jupyter notebook for Financial Analysis
+* `Property_Developers-_Financial_Data.xlsx` - raw data containing 116 listed real estate developers, with three-year accounting data spanning from 2017 to 2019
 
 ### Here is the schema and explanation of each variable in the files:
 
