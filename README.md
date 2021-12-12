@@ -41,6 +41,21 @@ This project is to explore Chinese real estate developers' financial statement d
 * NonControling_Interests: non-controlling interests from minority shareholders in total equity
 * Total_Equity: total equity on the shareholders’ equity statement
 
+### Takeaways
+
+With the analysis of China real estate developers, we can get a few takeaways:
+
+1. As the economy was trending down (China was inflicted by the trade war against the United States and then COVID-19, the winner will be much stronger with greater access to external financing to bid land resources.
+
+2. Payables are a common tool that developers leverage in order to improve their financial well-being in the short term.
+
+3. We can infer joint venture financing through the ratios between comprehensive income attributed to non-controlling interests and non-controlling interest to total equity. These two ratios’ trends should be aligned if no joint venture financing is involved. Companies with strong balance sheets typically would not opt for such financing sources as this type of joint venture financing has a higher cost of borrowing, but weaker players tend to do so.
+
+4. Even though we know which signals are good or bad, it is still very hard to leverage those signals to develop a profitable trading model even in paper trading. If a trading idea cannot pass paper trading, just don’t even think about the real trading environment.
+
+5. Obviously, our trading ideas do not include any rebalancing techniques. Given the market situation, our trade model can be improved through rebalancing. For example, we can rebalance our portfolio based on the latest financial statement, such as selling stocks that fall out of Quantile Bin 1 and buying stocks back if they get out of Quantile bin 5 and so on.
+
+
 ### Acknowledgement
 Thank you so much for my wife to support my career and our family.
 
